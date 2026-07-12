@@ -1,0 +1,20 @@
+[
+  {
+    "video": "sample_videos/video1.mp4",
+    "reference": {
+      "formal": "A man walks into a room and sits on a chair.",
+      "sarcastic": "Human discovers chair technology.",
+      "humorous-tech": "CPU completed sitting operation successfully.",
+      "humorous-non-tech": "That chair finally found its soulmate."
+    }
+  },
+  {
+    "video": "sample_videos/video2.mp4",
+    "reference": {
+      "formal": "A dog plays with a ball in the garden.",
+      "sarcastic": "Breaking news: dog still likes balls.",
+      "humorous-tech": "Autonomous pet object detection successful.",
+      "humorous-non-tech": "The ball never stood a chance."
+    }
+  }
+]
